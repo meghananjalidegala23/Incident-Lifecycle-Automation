@@ -1,5 +1,5 @@
 # Incident-Lifecycle-Automation
-Here is the README with no tables. The workflow is a flowchart, and the tech stack and testing sections are bullet lists. The flowchart is Mermaid, which GitHub draws as a diagram once you paste it into your README.md. In the chat it shows as code. Use the copy button to copy it.
+
 
 # Incident Lifecycle Automation in ServiceNow
 
