@@ -109,4 +109,4 @@ flowchart TD
 4. **Parent-Child Linked Incidents:** State synchronization and automatic closure of child incidents upon parent resolution were verified.
 5. **Knowledge Generation & Closure:** New Knowledge Article generation upon resolution and the mandatory resolution fields were validated.
 
-If you meant the Word document, tell me and I'll replace its stage table with a drawn flowchart.
+
